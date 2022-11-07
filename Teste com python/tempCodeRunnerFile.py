@@ -1,0 +1,1 @@
+print(f" {item[:11]}

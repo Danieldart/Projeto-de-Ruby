@@ -1,6 +1,6 @@
 
 import yaml
-import sys
+
 
 input = [
 { "name": "Maria Neusa de Aparecida", "cpf": "97905796671",

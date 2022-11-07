@@ -23,10 +23,9 @@ def solucao(arg):
                 keys = str1.split(", ") 
                 values = str2.split("|") 
                 dictionary = {} 
-                    
                 for i in range(len(keys)): 
                     dictionary[keys[i]] = values[i] 
                 print(dictionary) 
                 break
 
-solucao("44010762900Ricardo Fontes00000567")
+solucao("97905796671Maria Neusa de00001234")
