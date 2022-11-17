@@ -1,5 +1,4 @@
 require 'yaml'
-
 input = [
 { "name": 'Maria Neusa de Aparecida', "cpf": '97905796671',
 "state": 'Sao Paulo', "value": '1234' },
